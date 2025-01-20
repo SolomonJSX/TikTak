@@ -1,0 +1,64 @@
+import React, { useEffect } from 'react'
+import { Post } from "../gql/graphql"
+import { Link } from "react-router-dom"
+import { BsMusicNoteBeamed } from "react-icons/bs"
+import { AiFillHeart } from "react-icons/ai"
+
+function PostFeed({ post }: { post: Post }) {
+    const videoRef = React.useRef<HTMLVideoElement>(null)
+
+    useEffect(() => {
+        if (videoRef.current) {
+            videoRef.current.play()
+        }
+    }, [])
+    return (
+        <div className="flex border-b py-6" id="PostFeed">
+            <div className="cursor-pointer">
+                <img className="rounded-full max-h-[60px]" 
+                src={post?.user?.image ? post.user.image : "https://picsum.photos/id/83/300/320"} 
+                width={60} alt=""
+                />
+            </div>
+            <div className="pl-3 w-full px-4">
+                <div className="flex items-center justify-between pb-0.5">
+                    <Link to={`/profile/${post?.user?.id}`} className="flex items-center">
+                        <span className="font-bold hover:underline cursor-pointer">
+                            User name
+                        </span>
+                        <span className="text-[13px] text-light text-gray-500 pl-1 cursor-pointer">
+                            {post?.user?.fullName}
+                        </span>
+                    </Link>
+                    <button className="border text-[15px] px-[21px] py-0.5 border-[#f02c56] text-[#f02c56] rounded-md hover:bg-[#ffeef2] font-semibold">
+                        Follow
+                    </button>
+                </div>
+                <div className="text-[15px] pb-0.5 break-words md:max-w-[480px] maxx-w-[300px]">
+                    This is some text
+                </div>
+                <div className="text-[14px] text-gray-500 pb-0.5">
+                    #fun #cool #superAwesome
+                </div>
+                <div className="text-[14px] pb-0.5 flex items-center font-semibold">
+                    <BsMusicNoteBeamed size={17} />
+                    <div className="px-1">original - Awesome</div>
+                    <AiFillHeart size={20} />
+                </div>
+                <div className="mt-2.5 flex">
+                    <div className="relative min-h-[480px] max-h-[580px] max-w-[260px] flex items-center bg-black rounded-xl">
+                        <video
+                        ref={videoRef}
+                        src={"http://localhost:5079/" + post?.video}
+                        loop
+                        muted
+                        className="rounded-xl object-cover mx-auto h-full"
+                        />
+                    </div>
+                </div>
+            </div>
+        </div>
+    )
+}
+
+export default PostFeed

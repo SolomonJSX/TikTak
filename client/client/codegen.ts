@@ -1,9 +1,8 @@
 import { CodegenConfig, generate } from '@graphql-codegen/cli';
-import { baseGraphQlUrl } from './src/utils/apolloClient';
 
 
 const config: CodegenConfig = {
-    schema: baseGraphQlUrl,
+    schema: "http://localhost:5079/graphql",
     documents: 'src/graphql/**/*.ts',
     generates: {
         './src/gql/': {

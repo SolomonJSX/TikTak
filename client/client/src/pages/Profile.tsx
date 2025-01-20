@@ -1,6 +1,10 @@
+import AuthModal from "../components/AuthModal"
+
 function Profile() {
   return (
-    <div>Profile</div>
+    <div>
+      
+    </div>
   )
 }
 

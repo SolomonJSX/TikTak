@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114193726.mp4",
+      "PackagePath": "staticwebassets\\videos\\20250114193726.mp4"
+    },
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114194017.mp4",
+      "PackagePath": "staticwebassets\\videos\\20250114194017.mp4"
+    },
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162852.mp4",
+      "PackagePath": "staticwebassets\\videos\\20250115162852.mp4"
+    },
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162904.mp4",
+      "PackagePath": "staticwebassets\\videos\\20250115162904.mp4"
+    },
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115163007.mp4",
+      "PackagePath": "staticwebassets\\videos\\20250115163007.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TikTak.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TikTak.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TikTak.props",
+      "PackagePath": "build\\TikTak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TikTak.props",
+      "PackagePath": "buildMultiTargeting\\TikTak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TikTak.props",
+      "PackagePath": "buildTransitive\\TikTak.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

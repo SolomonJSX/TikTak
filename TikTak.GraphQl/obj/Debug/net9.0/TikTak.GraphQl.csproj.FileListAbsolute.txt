@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\bin\Debug\net9.0\TikTak.GraphQl.deps.json
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\bin\Debug\net9.0\TikTak.GraphQl.dll
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\bin\Debug\net9.0\TikTak.GraphQl.pdb
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\bin\Debug\net9.0\TikTak.Resourse.dll
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\bin\Debug\net9.0\TikTak.Resourse.pdb
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.AssemblyInfo.cs
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.sourcelink.json
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.G.C2F8522A.Up2Date
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.dll
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\refint\TikTak.GraphQl.dll
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\TikTak.GraphQl.pdb
+C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\obj\Debug\net9.0\ref\TikTak.GraphQl.dll

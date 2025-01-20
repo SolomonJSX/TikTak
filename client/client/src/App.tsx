@@ -1,9 +1,10 @@
 import './App.css'
+import AuthModal from './components/AuthModal'
+import { useGeneralStore } from "./stores/generalStore.ts";
 
 function App() {
-  return (
-    <div className="bg-red-500">Hello World!</div>
-  ) 
+  const {isLoginOpen} = useGeneralStore()
+  return <div>{ isLoginOpen && <AuthModal /> }</div>;
 }
 
 export default App

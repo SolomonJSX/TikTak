@@ -1,95 +1,100 @@
 import {
     ApolloClient,
+    InMemoryCache,
+    NormalizedCacheObject,
+    gql,
+    Observable,
     ApolloLink,
-    gql, InMemoryCache, NormalizedCacheObject, Observable, useMutation,
-    useQuery
-} from "@apollo/client";
-import {onError} from "@apollo/client/link/error";
-import createUploadLink from "apollo-upload-client/createUploadLink.mjs";
-
-export const baseGraphQlUrl = "http://localhost:5079/graphql";
-
-interface IAccessToken {
-    refreshToken?: string;
-}
-
-async function refreshToken(client: ApolloClient<NormalizedCacheObject>) {
+  } from "@apollo/client"
+  
+  import createUploadLink from "apollo-upload-client/createUploadLink.mjs";
+  import { onError } from "@apollo/client/link/error"
+  
+  async function refreshToken(client: ApolloClient<NormalizedCacheObject>) {
     try {
-        const { data } = await client.mutate<IAccessToken>({
-            mutation: gql`
-                mutation RefreshToken {
-                    accessToken
-                }
-            `
-        });
-        const newAccessToken = data?.refreshToken;
-
-        if (!newAccessToken) {
-            throw new Error("New access token not received.");
-        }
-
-        localStorage.setItem("accessToken", JSON.stringify(newAccessToken));
-
-        return `Bearer ${newAccessToken}`;
+      const { data } = await client.mutate({
+        mutation: gql`
+          mutation RefreshToken {
+            refreshToken
+          }
+        `,
+      })
+  
+      const newAccessToken = data?.refreshToken
+      console.log("newAccessToken", newAccessToken)
+      if (!newAccessToken) {
+        throw new Error("New access token not received.")
+      }
+      localStorage.setItem("accessToken", newAccessToken)
+      return `Bearer ${newAccessToken}`
     } catch (err) {
-        throw new Error("Error getting accessToken");
+      console.log(err)
+      throw new Error("Error getting new access token.")
     }
-}
-
-const errorLink = onError(({ graphQLErrors, operation, forward }) => {
-    let retryCount = 0;
-    const maxRetry = 3;
-
+  }
+  
+  let retryCount = 0
+  const maxRetry = 3
+  
+  const errorLink = onError(({ graphQLErrors, operation, forward }) => {
+    const operationName = operation.operationName
+    console.log(operationName, "operationName")
+    // if (["LoginUser", "RegisterUser"].includes(operationName)) {
+    //   console.log("Login or Register operation")
+    //   return forward(operation)
+    // }
+  
     if (graphQLErrors) {
-        for (let err of graphQLErrors) {
-            if (err.extensions && err.extensions.code === "UNAUTHENTICATED" && retryCount < maxRetry) {
-                retryCount++;
-                return new Observable(observer => {
-                    refreshToken(client)
-                    .then((accessToken) => {
-                        const oldHeaders = operation.getContext().headers;
-                        operation.setContext({
-                            headers: {
-                                ...oldHeaders,
-                                authorization: accessToken,
-                            }
-                        });
-                        const forward$ = forward(operation);
-                        return forward$.subscribe(observer)
-                    })
-                });
-            }
+      for (const err of graphQLErrors) {
+        if (err.extensions?.code === "UNAUTHENTICATED" && retryCount < maxRetry) {
+          retryCount++
+  
+          return new Observable((observer) => {
+            refreshToken(client)
+              .then((token) => {
+                console.log("token", token)
+                operation.setContext((previousContext: any) => ({
+                  headers: {
+                    ...previousContext.headers,
+                    authorization: token,
+                  },
+                }))
+                const forward$ = forward(operation)
+                forward$.subscribe(observer)
+              })
+              .catch((error) => observer.error(error))
+          })
         }
+      }
     }
-
-});
-
-const uploadLink = createUploadLink({
-    uri: baseGraphQlUrl,
+  })
+  const uploadLink = createUploadLink({
+    uri: "http://localhost:5079/graphql",
     credentials: "include",
     headers: {
-        "apollo-require-preflight": "true",
+      "apollo-require-preflight": "true",
+      "GraphQL-preflight": "1"
     },
-})
-
-const client = new ApolloClient({
-    uri: baseGraphQlUrl,
+  })
+  
+  export const client = new ApolloClient({
+    uri: "http://localhost:5079/graphql",
     cache: new InMemoryCache({
-        typePolicies: {
-            Query: {
-                fields: {
-                    getCommentsByPostId: {
-                        merge(_, incoming) {
-                            return incoming;
-                        }
-                    }
-                }
-            }
-        }
+      typePolicies: {
+        Query: {
+          fields: {
+            getCommentsByPostId: {
+              merge(existing, incoming) {
+                return incoming
+              },
+            },
+          },
+        },
+      },
     }),
     credentials: "include",
     headers: {
-        "content-type": "application/json",
+      "Content-Type": "application/json",
     },
     link: ApolloLink.from([errorLink, uploadLink]),
-});
+  })

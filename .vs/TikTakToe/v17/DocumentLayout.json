@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\RiderProjects\\TikTakToe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|solutionrelative:tiktaktoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\mutations\\authmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\mutations\\authmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\filters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\filters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488A9E13-9C04-4A7E-940A-407CDB2A3F44}|TikTakToe.Resourse\\TikTakToe.Resourse.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe.resourse\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488A9E13-9C04-4A7E-940A-407CDB2A3F44}|TikTakToe.Resourse\\TikTakToe.Resourse.csproj|solutionrelative:tiktaktoe.resourse\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\types\\authtypes\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\types\\authtypes\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\mutations\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\mutations\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|solutionrelative:tiktaktoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\queries\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\queries\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\queries\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\types\\authtypes\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|solutionrelative:tiktakgraphqlsupport\\types\\authtypes\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{488A9E13-9C04-4A7E-940A-407CDB2A3F44}|TikTakToe.Resourse\\TikTakToe.Resourse.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe.resourse\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{488A9E13-9C04-4A7E-940A-407CDB2A3F44}|TikTakToe.Resourse\\TikTakToe.Resourse.csproj|solutionrelative:tiktaktoe.resourse\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA8B6E-3B7C-425A-A728-2F59D1BE4CCC}|TikTakGraphQLSupport\\TikTakGraphQLSupport.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktakgraphqlsupport\\types\\authtypes\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|solutionrelative:tiktaktoe\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C4A27E7-4F9C-4D51-9C56-30CF910E30AE}|TikTakToe\\TikTakToe.csproj|solutionrelative:tiktaktoe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{488A9E13-9C04-4A7E-940A-407CDB2A3F44}|TikTakToe.Resourse\\TikTakToe.Resourse.csproj|c:\\users\\user\\riderprojects\\tiktaktoe\\tiktaktoe.resourse\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,36 +74,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 299,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserQuery.cs",
-              "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Queries\\UserQuery.cs",
-              "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Queries\\UserQuery.cs",
-              "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Queries\\UserQuery.cs",
-              "RelativeToolTip": "TikTakGraphQLSupport\\Queries\\UserQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Filters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Filters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Filters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "TikTakGraphQLSupport\\Filters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:46:35.035Z"
+              "WhenOpened": "2025-01-05T17:58:49.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthMutation.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Mutations\\AuthMutation.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Mutations\\AuthMutation.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Mutations\\AuthMutation.cs",
               "RelativeToolTip": "TikTakGraphQLSupport\\Mutations\\AuthMutation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T07:58:18.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ErrorType.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Types\\AuthTypes\\ErrorType.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Types\\AuthTypes\\ErrorType.cs",
@@ -111,11 +112,12 @@
               "RelativeToolTip": "TikTakGraphQLSupport\\Types\\AuthTypes\\ErrorType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:50:34.116Z"
+              "WhenOpened": "2025-01-02T07:50:34.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Mutation.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Mutations\\Mutation.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Mutations\\Mutation.cs",
@@ -128,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Services\\AuthService.cs",
@@ -141,19 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TikTakToe\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TikTakToe\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T08:37:38.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\appsettings.json",
               "RelativeDocumentMoniker": "TikTakToe\\appsettings.json",
@@ -161,7 +151,8 @@
               "RelativeToolTip": "TikTakToe\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T08:37:31.19Z"
+              "WhenOpened": "2025-01-01T08:37:31.19Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -173,19 +164,21 @@
               "RelativeToolTip": "TikTakToe.Resourse\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:45:47.808Z"
+              "WhenOpened": "2024-12-31T15:45:47.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe.Resourse\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "TikTakToe.Resourse\\DTOs\\RegisterDto.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe.Resourse\\DTOs\\RegisterDto.cs",
               "RelativeToolTip": "TikTakToe.Resourse\\DTOs\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:45:47Z"
+              "WhenOpened": "2024-12-31T15:45:47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -197,11 +190,12 @@
               "RelativeToolTip": "TikTakToe.Resourse\\DTOs\\UserClaimsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T15:45:46.197Z"
+              "WhenOpened": "2024-12-31T15:45:46.197Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Query.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Queries\\Query.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Queries\\Query.cs",
@@ -209,36 +203,51 @@
               "RelativeToolTip": "TikTakGraphQLSupport\\Queries\\Query.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:19:52.032Z"
+              "WhenOpened": "2024-12-31T09:19:52.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\Program.cs",
               "RelativeDocumentMoniker": "TikTakToe\\Program.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\Program.cs",
               "RelativeToolTip": "TikTakToe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T21:03:11.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Queries\\UserQuery.cs",
+              "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Queries\\UserQuery.cs",
+              "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Queries\\UserQuery.cs",
+              "RelativeToolTip": "TikTakGraphQLSupport\\Queries\\UserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:46:35.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RegisterResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Types\\AuthTypes\\RegisterResponse.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Types\\AuthTypes\\RegisterResponse.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Types\\AuthTypes\\RegisterResponse.cs",
               "RelativeToolTip": "TikTakGraphQLSupport\\Types\\AuthTypes\\RegisterResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:51:55.195Z"
+              "WhenOpened": "2025-01-02T07:51:55.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakGraphQLSupport\\Types\\AuthTypes\\LoginResponse.cs",
               "RelativeDocumentMoniker": "TikTakGraphQLSupport\\Types\\AuthTypes\\LoginResponse.cs",
@@ -246,7 +255,8 @@
               "RelativeToolTip": "TikTakGraphQLSupport\\Types\\AuthTypes\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:53:30.623Z"
+              "WhenOpened": "2025-01-02T07:53:30.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -258,19 +268,21 @@
               "RelativeToolTip": "TikTakToe.Resourse\\DbContext\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:16:49.596Z"
+              "WhenOpened": "2024-12-31T09:16:49.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TikTakToe\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\User\\RiderProjects\\TikTakToe\\TikTakToe\\Services\\AuthService.cs",
               "RelativeToolTip": "TikTakToe\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwIUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T21:03:47.338Z"
+              "WhenOpened": "2024-12-30T21:03:47.338Z",
+              "EditorCaption": ""
             }
           ]
         },
