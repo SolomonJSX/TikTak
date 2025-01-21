@@ -3,6 +3,8 @@ import { Post } from "../gql/graphql"
 import { Link } from "react-router-dom"
 import { BsMusicNoteBeamed } from "react-icons/bs"
 import { AiFillHeart } from "react-icons/ai"
+import { IoIosShareAlt } from "react-icons/io"
+import { IoChatbubbleEllipses } from "react-icons/io5"
 
 function PostFeed({ post }: { post: Post }) {
     const videoRef = React.useRef<HTMLVideoElement>(null)
@@ -54,6 +56,25 @@ function PostFeed({ post }: { post: Post }) {
                         muted
                         className="rounded-xl object-cover mx-auto h-full"
                         />
+                        <img className="absolute right-2 bottom-14"/>
+                    </div>
+
+                    <div className="relative mr-[75px]">
+                        <div className="absolute bottom-0 pl-2">
+                            <button className="rounded-full bg-gray-200 p-2 cursor-pointer">
+                                <AiFillHeart size={25} color="black" />
+                            </button>
+                            <span className="text-xs text-gray-800 font-semibold">
+                                {post?.likes.length}
+                            </span>
+                            <button className="rounded-full bg-gray-200 p-2 cursor-pointer">
+                                <IoIosShareAlt size={25} color="black" />
+                            </button>
+                            <span className="text-xs text-gray-800 font-semibold">34</span>
+                            <button className="rounded-full bg-gray-200 p-2 cursor-pointer">
+                                <IoChatbubbleEllipses size={25} color="black" />
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>

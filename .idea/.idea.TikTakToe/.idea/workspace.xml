@@ -9,238 +9,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c25353-2958-4af0-9aa5-ac06b522af9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTakToe.Resourse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/ref/TikTakToe.Resourse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/refint/TikTakToe.Resourse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakGraphQLSupport.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.Resourse.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/ref/TikTakToe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/refint/TikTakToe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TikTak/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/client/src/utils/GetErrorMessage.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tiktaktoe.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tiktaktoe.metadata.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tiktaktoe.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tiktaktoe.projects.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/tiktaktoe.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/tiktaktoe.strings.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/CopilotIndices/17.12.38.29086/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/CopilotIndices/17.12.38.29086/CodeChunks.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/CopilotIndices/17.12.38.29086/SemanticSymbols.db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/CopilotIndices/17.12.38.29086/SemanticSymbols.db-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/CopilotIndices/17.12.38.29086/SemanticSymbols.db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/FileContentIndex/610773ec-2501-418d-934e-e0bf2f904898.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/FileContentIndex/61fc7ea5-7ea6-4443-867a-696e88f0cdfe.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/FileContentIndex/8e1c372b-b736-47c5-9763-5ff0d18670bd.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/FileContentIndex/e15c09c9-887a-4f94-8933-7c35eb986a9f.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/v17/DocumentLayout.backup.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TikTakToe/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TikTakToe/v17/DocumentLayout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Mutations/AuthMutation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Mutations/Mutation.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Queries/Query.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Queries/UserQuery.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Services/AuthService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/TikTakGraphQLSupport.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/TikTakGraphQLSupport.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Types/AuthTypes/ErrorType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Types/AuthTypes/LoginResponse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/Types/AuthTypes/RegisterResponse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/bin/Debug/net9.0/TikTakGraphQLSupport.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/bin/Debug/net9.0/TikTakGraphQLSupport.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/bin/Debug/net9.0/TikTakGraphQLSupport.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/bin/Debug/net9.0/TikTakToe.Resourse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/bin/Debug/net9.0/TikTakToe.Resourse.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGr.D0535F14.Up2Date" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/TikTakGraphQLSupport.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/ref/TikTakGraphQLSupport.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/Debug/net9.0/refint/TikTakGraphQLSupport.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/TikTakGraphQLSupport.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/TikTakGraphQLSupport.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/TikTakGraphQLSupport.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakGraphQLSupport/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/DTOs/IssuerTokensDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/DTOs/IssuerTokensDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/DTOs/LoginDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/DTOs/LoginDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/DTOs/RegisterDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/DTOs/RegisterDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/DTOs/UserClaimsDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/DTOs/UserClaimsDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/DbContext/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/DbContext/ApplicationDbContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/Models/Comment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Models/Comment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/Models/Like.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Models/Like.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/Models/Post.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Models/Post.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Models/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/TikTakToe.Resourse.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/TikTak.Resourse.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/Utils/JwtOptions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Utils/JwtOptions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/Utils/TokenGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Utils/TokenGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/bin/Debug/net9.0/TikTakToe.Resourse.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTakToe.Resourse.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/bin/Debug/net9.0/TikTakToe.Resourse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/bin/Debug/net9.0/TikTakToe.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTakToe.Resourse.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.BuildWithSkipAnalyzers" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.Resourse.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/ref/TikTakToe.Resourse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/Debug/net9.0/refint/TikTakToe.Resourse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/TikTakToe.Resourse.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/TikTakToe.Resourse.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/TikTakToe.Resourse.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/TikTakToe.Resourse.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/TikTakToe.Resourse.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/TikTakToe.Resourse.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.Resourse/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TikTakToe.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/Services/AuthService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Services/AuthService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/TikTakToe.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/TikTak.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/TikTakToe.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/TikTakToe.csproj.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/BCrypt.Net-Next.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/BCrypt.Net-Next.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/CSharpFunctionalExtensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/CSharpFunctionalExtensions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/ChilliCream.Nitro.App.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/ChilliCream.Nitro.App.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/GreenDonut.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/GreenDonut.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.ApolloFederation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.ApolloFederation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.AspNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.AspNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Authorization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Authorization.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.CostAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.CostAnalysis.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Data.EntityFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Data.EntityFramework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Data.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Execution.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Execution.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Execution.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Execution.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Features.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Features.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Fetching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Fetching.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Language.SyntaxTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Language.SyntaxTree.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Language.Utf8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Language.Utf8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Language.Visitors.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Language.Visitors.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Language.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Language.Web.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Language.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Language.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Pagination.Batching.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Pagination.Batching.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Pagination.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Pagination.Core.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Pagination.EntityFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Pagination.EntityFramework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Pagination.Mappings.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Pagination.Mappings.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Pagination.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Pagination.Primitives.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Primitives.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Subscriptions.InMemory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Subscriptions.InMemory.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Subscriptions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Subscriptions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Transport.Sockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Transport.Sockets.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.CursorPagination.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.CursorPagination.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.Errors.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.Errors.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.Mutations.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.Mutations.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.OffsetPagination.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.OffsetPagination.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.Queries.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.Queries.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.Scalars.Upload.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.Scalars.Upload.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Types.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Types.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Utilities.DependencyInjection.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Utilities.DependencyInjection.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Utilities.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.Validation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.Validation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/HotChocolate.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/HotChocolate.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Npgsql.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Npgsql.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/System.IO.Hashing.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/System.IO.Hashing.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakGraphQLSupport.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakGraphQLSupport.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakGraphQLSupport.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.Resourse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTakToe.Resourse.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/TikTakToe.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTakToe.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/Yarp.ReverseProxy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/Yarp.ReverseProxy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/bin/Debug/net9.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/ApiEndpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/ApiEndpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.csproj.BuildWithSkipAnalyzers" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.csproj.BuildWithSkipAnalyzers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.csproj.Up2Date" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.csproj.Up2Date" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/TikTakToe.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTakToe.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/ref/TikTakToe.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/refint/TikTakToe.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets.references.upToDateCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.references.upToDateCheck.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets.removed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.removed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets/msbuild.build.TikTakToe.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.build.TikTakToe.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TikTakToe.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TikTakToe.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TikTakToe.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TikTakToe.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/TikTakToe.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/TikTakToe.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/TikTakToe.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/TikTakToe.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/TikTakToe.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/TikTakToe.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TikTakToe/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/codegen.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/codegen.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/gql/gql.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/gql/gql.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/gql/graphql.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/gql/graphql.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/graphql/mutations/Login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/graphql/mutations/Login.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/main.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/pages/Feed.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/pages/Feed.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/pages/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/pages/Profile.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/pages/Upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/pages/Upload.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/utils/apolloClient.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/utils/apolloClient.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.Resourse.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.Resourse.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/ref/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/ref/TikTak.GraphQl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/refint/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/refint/TikTak.GraphQl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/ref/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/ref/TikTak.Resourse.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/refint/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/refint/TikTak.Resourse.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.GraphQl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.GraphQl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.GraphQl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.Resourse.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.Resourse.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/ref/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/ref/TikTak.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/refint/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/refint/TikTak.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client/src/components/PostFeed.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/components/PostFeed.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,6 +170,8 @@
       <workItem from="1736882031853" duration="1731000" />
       <workItem from="1736957574718" duration="2824000" />
       <workItem from="1737054511808" duration="1222000" />
+      <workItem from="1737387096821" duration="1309000" />
+      <workItem from="1737463141126" duration="2219000" />
     </task>
     <servers />
   </component>

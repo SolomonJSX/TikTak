@@ -26,9 +26,11 @@ builder.Services.AddGraphQLServer()
     .AddQueryType<Query>()
     .AddTypeExtension<UserQuery>()
     .AddTypeExtension<PostQuery>()
+    .AddTypeExtension<CommentQuery>()
     .AddMutationType<Mutation>()
     .AddTypeExtension<UserMutation>()
     .AddTypeExtension<PostMutation>()
+    .AddTypeExtension<CommentMutation>()
     ;
 
 builder.Services.Configure<FormOptions>(options =>
@@ -42,6 +44,7 @@ builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<TokenGenerator>();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<PostService>();
+builder.Services.AddScoped<CommentService>();
 builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddCors(options =>
