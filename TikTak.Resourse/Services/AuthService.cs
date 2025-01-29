@@ -79,7 +79,7 @@ public class AuthService(IDbContextFactory<ApplicationDbContext> dbContextFactor
     private async Task<CSharpFunctionalExtensions.Result<User?>> IssueTokens(HttpContext httpContext, User user)
     {
         await using var dbContext = await dbContextFactory.CreateDbContextAsync();
-        var accessToken = tokenGenerator.GenerateToken(new UserClaimsDto(user.FullName, user.Id, DateTime.UtcNow.AddSeconds(150), Key: options.Value.AccessTokenSecret));
+        var accessToken = tokenGenerator.GenerateToken(new UserClaimsDto(user.FullName, user.Id, DateTime.UtcNow.AddHours(2), Key: options.Value.AccessTokenSecret));
         var refreshToken = tokenGenerator.GenerateToken(new UserClaimsDto(user.FullName, user.Id, DateTime.UtcNow.AddDays(7), Key: options.Value.RefreshTokenSecret));
         httpContext.Response.Cookies.Append("accessToken", accessToken, new CookieOptions
         {

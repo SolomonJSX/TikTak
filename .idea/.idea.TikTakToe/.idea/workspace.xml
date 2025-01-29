@@ -10,6 +10,9 @@
   <component name="ChangeListManager">
     <list default="true" id="93c25353-2958-4af0-9aa5-ac06b522af9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TikTakToe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/Mutations/CommentMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/Mutations/CommentMutation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/Queries/CommentQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/Queries/CommentQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/Queries/PostQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/Queries/PostQuery.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.GraphQl.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/bin/Debug/net9.0/TikTak.Resourse.dll" afterDir="false" />
@@ -17,11 +20,17 @@
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/TikTak.GraphQl.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/ref/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/ref/TikTak.GraphQl.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/refint/TikTak.GraphQl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.GraphQl/obj/Debug/net9.0/refint/TikTak.GraphQl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/DTOs/PostDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/DTOs/PostDetails.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/Services/AuthService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Services/AuthService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/Services/CommentService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Services/CommentService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/Services/LikeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Services/LikeService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak.Resourse/Services/PostService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/Services/PostService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/bin/Debug/net9.0/TikTak.Resourse.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak.Resourse/obj/Debug/net9.0/TikTak.Resourse.AssemblyInfo.cs" afterDir="false" />
@@ -40,6 +49,8 @@
       <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.staticwebassets.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/bin/Debug/net9.0/TikTak.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/TikTak.csproj.AssemblyReference.cache" afterDir="false" />
@@ -49,7 +60,17 @@
       <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/ref/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/ref/TikTak.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/refint/TikTak.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/refint/TikTak.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/client/src/components/PostFeed.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/components/PostFeed.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.TikTak.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.TikTak.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.TikTak.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/TikTak/obj/Debug/net9.0/staticwebassets/msbuild.TikTak.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TikTakToe.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TikTakToe.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client/src/gql/gql.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/gql/gql.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client/src/gql/graphql.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/gql/graphql.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client/src/pages/Feed.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/pages/Feed.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client/src/pages/Post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/client/src/pages/Post.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +85,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/53b0d531c06faf86bf2ae111a9a2dbce4c52a9153feb9966ade60289c71bf52/ExecutionContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/74e4c72cd3922ed61496931f33baf4a9b5950edddb6b78bc296241285f25c3/TaskAwaiter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b24261be8f3db862a7ad478ef621d682453f48464f613577e7596238f8/ThreadPoolWorkQueue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ba115824584d422ba628e22b54386fb372ea8e525a62524852a3380bf97cc/ForAllOperator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d0165cb640e16fb3b8fe6932c042fc2917cd7f2770ff123cf7b9d11b5bfc6/Task.cs" root0="FORCE_HIGHLIGHTING" />
@@ -172,6 +194,12 @@
       <workItem from="1737054511808" duration="1222000" />
       <workItem from="1737387096821" duration="1309000" />
       <workItem from="1737463141126" duration="2219000" />
+      <workItem from="1737790364596" duration="1897000" />
+      <workItem from="1737793042999" duration="415000" />
+      <workItem from="1737793921275" duration="146000" />
+      <workItem from="1737819993384" duration="8306000" />
+      <workItem from="1737832318799" duration="895000" />
+      <workItem from="1737905748928" duration="2780000" />
     </task>
     <servers />
   </component>
@@ -197,6 +225,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TikTak.GraphQl/Mutations/LikeMutation.cs</url>
+          <line>20</line>
+          <properties documentPath="C:\Users\User\RiderProjects\TikTak\TikTak.GraphQl\Mutations\LikeMutation.cs" containingFunctionPresentation="Method 'LikePost'">
+            <startOffsets>
+              <option value="522" />
+            </startOffsets>
+            <endOffsets>
+              <option value="568" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

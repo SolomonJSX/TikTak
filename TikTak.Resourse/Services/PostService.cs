@@ -72,7 +72,7 @@ public class PostService(IDbContextFactory<ApplicationDbContext> dbContextFactor
         return createdPost.Entity;
     }
 
-    public async Task<PostDetails> GetPostById(Guid id)
+    public async Task<PostDetails> GetPostById(int id)
     {
         try
         {
@@ -83,7 +83,7 @@ public class PostService(IDbContextFactory<ApplicationDbContext> dbContextFactor
                 .Include(p => p.Comments)
                 .FirstOrDefaultAsync(p => p.Id == id);
 
-            if (post is null) throw new GraphQLException("Post not found.");
+            if (post is null) throw new Exception("Post not found.");
 
             var otherPostIds = await dbContext.Posts
                 .Where(p => p.UserId == post.UserId)
@@ -96,9 +96,9 @@ public class PostService(IDbContextFactory<ApplicationDbContext> dbContextFactor
                 OtherPostIds = otherPostIds,
             };
         }
-        catch (GraphQLException ex)
+        catch (Exception ex)
         {
-            throw new GraphQLException(ex.Errors);
+            throw new Exception(ex.Message);
         }
     }
 
@@ -116,17 +116,19 @@ public class PostService(IDbContextFactory<ApplicationDbContext> dbContextFactor
             .ToListAsync();
     }
 
-    public async Task<List<Post>> GetPostsByUserId(Guid userId)
+    public async Task<List<Post>> GetPostsByUserId(int userId)
     {
         await using var dbContext = await dbContextFactory.CreateDbContextAsync();
 
-        return await dbContext.Posts
-            .Include(p => p.User)
-            .Where(p => p.UserId == userId)
-            .ToListAsync();
+        var postsList = await dbContext.Posts
+                                    .Include(p => p.User)
+                                    .Where(p => p.UserId == userId)
+                                    .ToListAsync();
+        
+        return postsList;
     }
 
-    public async Task DeletePost(Guid postId)
+    public async Task DeletePost(int postId)
     {
         try
         {

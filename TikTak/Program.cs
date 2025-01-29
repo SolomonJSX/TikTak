@@ -17,7 +17,7 @@ builder.Services.AddControllers();
 builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("JwtOptions"));
 
 builder.Services.AddDbContextFactory<ApplicationDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultString")));
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultString")));
 
 builder.Services.AddGraphQLServer()
     .AddType<UploadType>()
@@ -28,6 +28,7 @@ builder.Services.AddGraphQLServer()
     .AddTypeExtension<PostQuery>()
     .AddTypeExtension<CommentQuery>()
     .AddMutationType<Mutation>()
+    .AddTypeExtension<LikeMutation>()
     .AddTypeExtension<UserMutation>()
     .AddTypeExtension<PostMutation>()
     .AddTypeExtension<CommentMutation>()
@@ -45,6 +46,7 @@ builder.Services.AddScoped<TokenGenerator>();
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<PostService>();
 builder.Services.AddScoped<CommentService>();
+builder.Services.AddScoped<LikeService>();
 builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddCors(options =>

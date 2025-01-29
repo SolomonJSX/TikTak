@@ -10,31 +10,50 @@ using TikTak.Resourse.Utils;
 namespace TikTak.GraphQl.Mutations;
 
 [ExtendObjectType(nameof(Mutation))]
-public class CommentMutation(CommentService postService, IHttpContextAccessor contextAccessor, IOptions<JwtOptions> jwtOptions)
+public class CommentMutation(
+    CommentService commentService,
+    IHttpContextAccessor contextAccessor,
+    IOptions<JwtOptions> jwtOptions)
 {
-    public async Task<IEnumerable<Comment>> GetCommentsByPostId(Guid postId)
-    {
-        return await postService.GetCommentsByPostIdAsync(postId);
-    }
-
-    public async Task<Comment> CreateComment(Guid postId, string text)
+    public async Task<Comment> CreateComment(int postId, string text)
     {
         var httpContext = contextAccessor.HttpContext;
-        var access_token = httpContext!.Request.Cookies["accessToken"];
+        var accessToken = httpContext!.Request.Cookies["accessToken"];
 
-        if (string.IsNullOrEmpty(access_token)) throw new GraphQLException("Access token is missing");
-            
-        var claims = TokenReader.GetClaimsFromToken(access_token, jwtOptions.Value.AccessTokenSecret);
-            
+        if (string.IsNullOrEmpty(accessToken)) throw new GraphQLException("Access token is missing");
+
+        var claims = TokenReader.GetClaimsFromToken(accessToken, jwtOptions.Value.AccessTokenSecret);
+
         var userId = claims.FirstOrDefault(k => k.Key == ClaimTypes.NameIdentifier).Value;
 
         var createCommentInput = new CreateCommentInput()
         {
             Text = text,
-            UserId = Guid.Parse(userId),
+            UserId = int.Parse(userId),
             PostId = postId,
         };
-        
-        return await postService.CreateCommentAsync(createCommentInput);
+
+        return await commentService.CreateCommentAsync(createCommentInput);
+    }
+
+    public async Task<Comment> DeleteComment(int Id)
+    {
+        try
+        {
+            var httpContext = contextAccessor.HttpContext;
+            var accessToken = httpContext!.Request.Cookies["accessToken"];
+
+            if (string.IsNullOrEmpty(accessToken)) throw new GraphQLException("Access token is missing");
+
+            var claims = TokenReader.GetClaimsFromToken(accessToken, jwtOptions.Value.AccessTokenSecret);
+
+            var userId = claims.FirstOrDefault(k => k.Key == ClaimTypes.NameIdentifier).Value;
+
+            return await commentService.DeleteCommentAsync(Id, int.Parse(userId));
+        }
+        catch (Exception e)
+        {
+            throw new GraphQLException(e.Message);
+        }
     }
 }

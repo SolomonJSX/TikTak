@@ -30,7 +30,7 @@ public class PostMutation(PostService postService, IHttpContextAccessor contextA
             {
                 Text = text,
                 Video = videoPath.FilePath,
-                UserId = Guid.Parse(userId),
+                UserId = int.Parse(userId),
             };
 
             return await postService.CreatePostAsync(postData);
@@ -41,5 +41,5 @@ public class PostMutation(PostService postService, IHttpContextAccessor contextA
         }
     }
     
-    public async Task DeletePost(Guid id) => await postService.DeletePost(id);
+    public async Task DeletePost(int id) => await postService.DeletePost(id);
 }

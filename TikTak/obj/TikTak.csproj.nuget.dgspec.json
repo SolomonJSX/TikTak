@@ -73,6 +73,10 @@
             "Humanizer": {
               "target": "Package",
               "version": "[3.0.0-beta.54, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -157,9 +161,9 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -257,9 +261,9 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.1, )"
             }
           },
           "imports": [

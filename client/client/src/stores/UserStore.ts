@@ -2,7 +2,7 @@ import {create} from "zustand";
 import {devtools, persist} from "zustand/middleware";
 
 export interface IUser {
-    id?: string;
+    id?: number;
     fullName: string;
     email?: string;
     bio?: string;

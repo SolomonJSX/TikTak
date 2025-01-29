@@ -1,3 +1,3 @@
 ﻿namespace TikTak.Resourse.DTOs;
 
-public record UserClaimsDto(string FullName, Guid UserId, DateTime ExpiresIn, string Key);
+public record UserClaimsDto(string FullName, int UserId, DateTime ExpiresIn, string Key);

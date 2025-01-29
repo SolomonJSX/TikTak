@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TikTak.GraphQl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a46e9cf80f2a51c67694589c9b27bc6ece98745")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691df9e758c9926209094ba6b12e953bfd3d0af7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TikTak.GraphQl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TikTak.GraphQl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

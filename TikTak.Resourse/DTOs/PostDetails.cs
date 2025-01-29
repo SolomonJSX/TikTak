@@ -2,8 +2,8 @@
 
 namespace TikTak.Resourse.DTOs;
 
-public class PostDetails : Post
+public class PostDetails
 {
     public Post? Post { get; set; }
-    public List<Guid> OtherPostIds { get; set; } = new();
+    public List<int> OtherPostIds { get; set; } = new();
 }
