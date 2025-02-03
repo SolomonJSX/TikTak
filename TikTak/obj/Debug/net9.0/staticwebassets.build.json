@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UcKNmxOTVafs1u1e/7OrOWWIeJxYUb9JhzbG8M1h7k0=",
+  "Hash": "wkTsMyDgiVbXTwIaOwgpA2mDbLdPn+5XCDk2RjBNMGU=",
   "Source": "TikTak",
   "BasePath": "_content/TikTak",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114193726.mp4",
+      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171547.mp4",
       "SourceId": "TikTak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
       "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250114193726#[.{fingerprint}]?.mp4",
+      "RelativePath": "videos/20250127171547#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -35,15 +35,15 @@
       "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250114193726.mp4"
+      "OriginalItemSpec": "wwwroot\\videos\\20250127171547.mp4"
     },
     {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114194017.mp4",
+      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171602.mp4",
       "SourceId": "TikTak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
       "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250114194017#[.{fingerprint}]?.mp4",
+      "RelativePath": "videos/20250127171602#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -56,15 +56,15 @@
       "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250114194017.mp4"
+      "OriginalItemSpec": "wwwroot\\videos\\20250127171602.mp4"
     },
     {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162852.mp4",
+      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171607.mp4",
       "SourceId": "TikTak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
       "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250115162852#[.{fingerprint}]?.mp4",
+      "RelativePath": "videos/20250127171607#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -77,15 +77,15 @@
       "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250115162852.mp4"
+      "OriginalItemSpec": "wwwroot\\videos\\20250127171607.mp4"
     },
     {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162904.mp4",
+      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171614.mp4",
       "SourceId": "TikTak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
       "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250115162904#[.{fingerprint}]?.mp4",
+      "RelativePath": "videos/20250127171614#[.{fingerprint}]?.mp4",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -98,97 +98,13 @@
       "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250115162904.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115163007.mp4",
-      "SourceId": "TikTak",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
-      "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250115163007#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zbqvqv60pr",
-      "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250115163007.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172718.mp4",
-      "SourceId": "TikTak",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
-      "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250125172718#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zbqvqv60pr",
-      "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250125172718.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172802.mp4",
-      "SourceId": "TikTak",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
-      "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250125172802#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zbqvqv60pr",
-      "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250125172802.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172811.mp4",
-      "SourceId": "TikTak",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\",
-      "BasePath": "_content/TikTak",
-      "RelativePath": "videos/20250125172811#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zbqvqv60pr",
-      "Integrity": "Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\20250125172811.mp4"
+      "OriginalItemSpec": "wwwroot\\videos\\20250127171614.mp4"
     }
   ],
   "Endpoints": [
     {
-      "Route": "videos/20250114193726.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114193726.mp4",
+      "Route": "videos/20250127171547.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171547.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -209,7 +125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 19:37:26 GMT"
+          "Value": "Mon, 27 Jan 2025 17:15:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -224,8 +140,8 @@
       ]
     },
     {
-      "Route": "videos/20250114193726.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114193726.mp4",
+      "Route": "videos/20250127171547.zbqvqv60pr.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171547.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -246,7 +162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 19:37:26 GMT"
+          "Value": "Mon, 27 Jan 2025 17:15:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -260,7 +176,7 @@
         },
         {
           "Name": "label",
-          "Value": "videos/20250114193726.mp4"
+          "Value": "videos/20250127171547.mp4"
         },
         {
           "Name": "integrity",
@@ -269,8 +185,8 @@
       ]
     },
     {
-      "Route": "videos/20250114194017.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114194017.mp4",
+      "Route": "videos/20250127171602.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171602.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -291,7 +207,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 19:40:17 GMT"
+          "Value": "Mon, 27 Jan 2025 17:16:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -306,8 +222,8 @@
       ]
     },
     {
-      "Route": "videos/20250114194017.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250114194017.mp4",
+      "Route": "videos/20250127171602.zbqvqv60pr.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171602.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -328,7 +244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 19:40:17 GMT"
+          "Value": "Mon, 27 Jan 2025 17:16:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -342,7 +258,7 @@
         },
         {
           "Name": "label",
-          "Value": "videos/20250114194017.mp4"
+          "Value": "videos/20250127171602.mp4"
         },
         {
           "Name": "integrity",
@@ -351,8 +267,8 @@
       ]
     },
     {
-      "Route": "videos/20250115162852.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162852.mp4",
+      "Route": "videos/20250127171607.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171607.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -373,7 +289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 16:28:52 GMT"
+          "Value": "Mon, 27 Jan 2025 17:16:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -388,8 +304,8 @@
       ]
     },
     {
-      "Route": "videos/20250115162852.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162852.mp4",
+      "Route": "videos/20250127171607.zbqvqv60pr.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171607.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -410,7 +326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 16:28:52 GMT"
+          "Value": "Mon, 27 Jan 2025 17:16:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -424,7 +340,7 @@
         },
         {
           "Name": "label",
-          "Value": "videos/20250115162852.mp4"
+          "Value": "videos/20250127171607.mp4"
         },
         {
           "Name": "integrity",
@@ -433,8 +349,8 @@
       ]
     },
     {
-      "Route": "videos/20250115162904.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162904.mp4",
+      "Route": "videos/20250127171614.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171614.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -455,7 +371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 16:29:04 GMT"
+          "Value": "Mon, 27 Jan 2025 17:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -470,8 +386,8 @@
       ]
     },
     {
-      "Route": "videos/20250115162904.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115162904.mp4",
+      "Route": "videos/20250127171614.zbqvqv60pr.mp4",
+      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250127171614.mp4",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -492,7 +408,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 16:29:04 GMT"
+          "Value": "Mon, 27 Jan 2025 17:16:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -506,335 +422,7 @@
         },
         {
           "Name": "label",
-          "Value": "videos/20250115162904.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250115163007.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115163007.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 16:30:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250115163007.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250115163007.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 16:30:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zbqvqv60pr"
-        },
-        {
-          "Name": "label",
-          "Value": "videos/20250115163007.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250125172718.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172718.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 17:27:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250125172718.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172718.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 17:27:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zbqvqv60pr"
-        },
-        {
-          "Name": "label",
-          "Value": "videos/20250125172718.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250125172802.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172802.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 17:28:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250125172802.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172802.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 17:28:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zbqvqv60pr"
-        },
-        {
-          "Name": "label",
-          "Value": "videos/20250125172802.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250125172811.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172811.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 17:28:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM="
-        }
-      ]
-    },
-    {
-      "Route": "videos/20250125172811.zbqvqv60pr.mp4",
-      "AssetFile": "C:\\Users\\User\\RiderProjects\\TikTak\\TikTak\\wwwroot\\videos\\20250125172811.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3864888"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Dy3a6qEcgDZw3m4S5qVJMp5gwLBrvF52jsKPbT6sYsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 17:28:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zbqvqv60pr"
-        },
-        {
-          "Name": "label",
-          "Value": "videos/20250125172811.mp4"
+          "Value": "videos/20250127171614.mp4"
         },
         {
           "Name": "integrity",

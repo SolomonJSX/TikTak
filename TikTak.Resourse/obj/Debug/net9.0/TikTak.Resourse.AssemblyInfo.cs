@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TikTak.Resourse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691df9e758c9926209094ba6b12e953bfd3d0af7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3c808373c5335946afea44d22133090e7b5c437")]
 [assembly: System.Reflection.AssemblyProductAttribute("TikTak.Resourse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TikTak.Resourse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
